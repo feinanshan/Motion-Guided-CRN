@@ -36,8 +36,13 @@ This is a PyTorch implementation of Motion-guided CRN described in
 
 ### Bibtex
 @InProceedings{Hu_2018_CVPR,
+
 author = {Hu, Ping and Wang, Gang and Kong , Xiangfei and Kuen,  Jason and Tan, Yap-Peng},
+
 title = {Motion-Guided Cascaded Refinement Network for Video Object Segmentation},
+
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+
 year = {2018}
+
 }
