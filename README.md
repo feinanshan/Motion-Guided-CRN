@@ -25,3 +25,8 @@ This is a PyTorch implementation of Motion-guided CRN described in
 1. Download the [parent model](), and unzip it under `models/`.
 2. Edit in file `trainOneShot.py` the 'User defined parameters' (eg. gpu_id, etc).
 3. Run `python trainOneShot.py`.
+
+### Testing with trained model
+1. The finetuned model can be found [here](), and unzip it under `models/`.
+2. Edit in file `TestOneShot.py` the 'User defined parameters' (eg. gpu_id, etc).
+3. Run `python TestOneShot.py`.
