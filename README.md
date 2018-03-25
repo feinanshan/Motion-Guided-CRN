@@ -13,10 +13,11 @@ This is a PyTorch implementation of Motion-guided CRN described in
    git clone https://github.com/feinanshan/Motion-Guided-CRN.git
    ```
 2. Install the Active Contour module
-   ```Shell
+   ```Shell
    cd ./ACLS
    python build.py
    ```
+   
    This module is a C extensions for PyTorch. You may need to install the 'cffi' package from pip.
    
 
