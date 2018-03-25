@@ -1,4 +1,4 @@
-# Motion-Guided-CRN (under construction)
+# Motion-Guided-CRN (under construction...)
 
 ![Motion-Guided-CRN](doc/workflow.png)
 
