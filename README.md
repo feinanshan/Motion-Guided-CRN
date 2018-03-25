@@ -1,9 +1,9 @@
 # Motion-Guided-CRN
-![Motion-Guided-CRN](doc/workflow.png)
-
 This is a PyTorch implementation of Motion-guided CRN described in
-
 >[Ping Hu, Gang Wang, Xiangfei Kong , Jason Kuen, Yap-Peng Tan;. "Motion-Guided Cascaded Refinement Network for Video Object Segmentation." CVPR, 2018](https://sites.google.com/view/pinghu/projects/video-object-segmentation)
+
+
+![Motion-Guided-CRN](doc/workflow.png)
 
 ### Prerequisites
 1. PyTorch
