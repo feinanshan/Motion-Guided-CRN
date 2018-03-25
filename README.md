@@ -14,6 +14,6 @@ This is a PyTorch implementation of Motion-guided CRN described in
    ```
 2. Install the Active Contour module
 
-3. Edit the paths in mypath.py
+3. Edit the paths in OneShot.py
 
 ### Online training and testing
