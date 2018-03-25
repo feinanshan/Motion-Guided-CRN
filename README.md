@@ -22,6 +22,6 @@ This is a PyTorch implementation of Motion-guided CRN described in
 3. Edit the paths in OneShot.py
 
 ### Online training and testing
-1. Download the [parent model](https://data.vision.ee.ethz.ch/kmaninis/share/OSVOS/Downloads/models/pth_parent_model.zip) (55 MB), and unzip it under `models/`.
-2. Edit in file `osvos_demo.py` the 'User defined parameters' (eg. gpu_id, etc).
-3. Run `python train_online.py`.
+1. Download the [parent model](), and unzip it under `models/`.
+2. Edit in file `trainOneShot.py` the 'User defined parameters' (eg. gpu_id, etc).
+3. Run `python trainOneShot.py`.
