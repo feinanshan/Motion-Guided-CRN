@@ -1,4 +1,4 @@
-# Motion-Guided-CRN (under construction...)
+# Motion-Guided-CRN
 
 This is a PyTorch implementation of **Cascaded Refinement Network** described in
 >[Ping Hu, Gang Wang, Xiangfei Kong , Jason Kuen, Yap-Peng Tan;. "Motion-Guided Cascaded Refinement Network for Video Object Segmentation." CVPR, 2018](https://sites.google.com/view/pinghu/projects/video-object-segmentation)
